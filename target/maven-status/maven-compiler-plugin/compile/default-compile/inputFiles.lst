@@ -1,0 +1,17 @@
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/renmin/ChildUrlsHandle.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/renmin/RenminProc.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/pipeline/renmin_pipeline_old.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/taobao/HandleUrls.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/renmin/TopologyMain.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/util/Handle_Taobao.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/taobao/Taobao_BaseInfo.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/renmin/RenminContent.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/pipeline/storm_pipeline.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/taobao/HandleResultItem.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/renmin/SpiderUrlsSpout.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/taobao/MakeUrlsSpout.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/pipeline/renmin_content_pipeline.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/webmagic/pipeline/renmin_pipeline.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/mysql/MysqlConnection.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/storm/webmagic/taobao/TopologyMain.java
+/Users/Diablo/Documents/workspace/storm_webmagic/src/main/java/com/inspur/util/Save_Result.java
